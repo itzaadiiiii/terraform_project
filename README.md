@@ -2,7 +2,7 @@
 This is terraform project which consists of creating various resources creaing various modules 
 
 
-# Setup Of Codeespace 
+# Setup Of Codeespace and installing required tools :-
 1. ## First check versions of aws and terraform
 > **aws --version**
 > 
@@ -40,6 +40,7 @@ now on searchbar type aws to install
 ( select Codespace : rebuild container ) this will build container
 
 # Extensions to be Installed on CodeSpace :
+( this will help you to Autocomplete the code )
 > AWS Toolkit
 > 
 > Hashicorp Syntax official verified (search for terraform )
