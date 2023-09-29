@@ -13,7 +13,7 @@ This is terraform project which consists of creating various resources creaing v
 ## to install aws and terraform
 ### steps :-  
 ## 1. Goto top search bar and type
-> >dev
+> **>dev**
 > >
 now select :   
 1) codespace:Add Dev Container Configuration files and (2) Modify your active configuration
@@ -25,11 +25,14 @@ now on searchbar type terraform to install
 
 
 ## 2. Goto top search bar and type
-> >dev
+> **>dev**
 > >now select :
 > >1) codespace : Add Dev Container Configuration files and (2) Modify your active configuration
-now on searchbar type aws to install
+
+now on searchbar type aws to install  
+
 > **aws**
+> 
 (select aws devcontainers ) and keep defaults
 ## 3. Now to build container
 >  **>rebuild**
