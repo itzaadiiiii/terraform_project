@@ -5,7 +5,7 @@ This is terraform project which consists of creating various resources creaing v
 # Setup Of Codeespace 
 1. ## First check versions of aws and terraform
 > aws --version
-> > terraform --version
+> terraform --version
 > > ( If not installed shows command not found )
 
 ## to install aws and terraform
