@@ -14,7 +14,7 @@ This is terraform project which consists of creating various resources creaing v
 ### steps :-  
 ## 1. Goto top search bar and type
 > **>dev**
-> >
+
 now select :   
 1) codespace:Add Dev Container Configuration files and (2) Modify your active configuration
  
