@@ -4,14 +4,14 @@ This is terraform project which consists of creating various resources creaing v
 
 # Setup Of Codeespace 
 1. ## First check versions of aws and terraform
-> aws --version
+> **aws --version**
 > 
-> terraform --version
+> **terraform --version**
 > 
 > > ( If not installed shows command not found )
 
 ## to install aws and terraform
-##steps :-  
+### steps :-  
 ## 1. Goto top search bar and type
 > >dev
 > >
@@ -26,12 +26,13 @@ now on searchbar type terraform to install
 
 ## 2. Goto top search bar and type
 > >dev
-now select : 1) codespace:Add Dev Container Configuration files and (2) Modify your active configuration
+> >now select :
+> >1) codespace : Add Dev Container Configuration files and (2) Modify your active configuration
 now on searchbar type aws to install
-> aws
+> **aws**
 (select aws devcontainers ) and keep defaults
 ## 3. Now to build container
->  >rebuild
+>  **>rebuild**
 >  >
 ( select Codespace : rebuild container ) this will build container
 
