@@ -30,6 +30,8 @@ now on searchbar type aws to install
 
 # Extensions to be Installed on CodeSpace :
 > AWS Toolkit
+> 
 > Hashicorp Syntax official verified (search for terraform )
+> 
 > HASHICORP HCL (search for hcl select black icon )
 
