@@ -46,4 +46,9 @@ now on searchbar type aws to install
 > Hashicorp Syntax official verified (search for terraform )
 > 
 > HASHICORP HCL (search for hcl select black icon )
+>
+## for more visit :-  
+- Hashicorp AWS (for getting syntax for creating resources you can just copy and paste )
+- Hashicorp Registry ( to get terraform modules developed by others to use , but mostly modules are developed by own )
+- GitHub - terraform Zero to hero by Abhishek Veeramalla repository
 
